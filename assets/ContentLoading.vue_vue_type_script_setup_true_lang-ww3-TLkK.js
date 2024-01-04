@@ -1,0 +1,2 @@
+import{_ as e}from"./BaseIcon.vue_vue_type_script_setup_true_lang-io_05Ke-.js";import{C as o}from"./color-Ih_vWK5s.js";import{d as a,c as s,m as n,q as r,f as t}from"./main-A7BwrMDB.js";const c={class:"loading-messages"},p=a({__name:"ContentLoading",setup(m){return(_,i)=>(s(),n("div",c,[r(e,{name:"loader",class:"feather feather-loader spin",size:"md",color:t(o).LineIcon},null,8,["color"])]))}});export{p as _};
+//# sourceMappingURL=ContentLoading.vue_vue_type_script_setup_true_lang-ww3-TLkK.js.map
